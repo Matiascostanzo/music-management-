@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1665060168 source:c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"clases.h"
+	"reportes.h"
+	"funciones.h"
+	"menues.h"
+
+1663529799 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\clasecanciones.h
+	"claseFecha.h"
+	"funciones.h"
+
+1663526528 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\clasefecha.h
+
+1664592656 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\funciones.h
+
+1663527271 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\claseinterprete.h
+	"claseFecha.h"
+	"funciones.h"
+
+1664592894 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\clases.h
+
+1664592656 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\funcionesglobales.h
+
+1664130022 source:c:\users\ciroc\desktop\aplicacionmusica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"clases.h"
+	"funciones.h"
+
+1663532721 c:\users\ciroc\desktop\aplicacionmusica\funcionesglobales.h
+
+1664131356 c:\users\ciroc\desktop\aplicacionmusica\clases.h
+
+1664131363 c:\users\ciroc\desktop\aplicacionmusica\funciones.h
+
+1664460091 source:c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusicaa\aplicacionmusica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"clases.h"
+	"reportes.h"
+	"funciones.h"
+
+1663532721 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusicaa\aplicacionmusica\funcionesglobales.h
+
+1664553638 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusicaa\aplicacionmusica\clases.h
+
+1664555768 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusicaa\aplicacionmusica\funciones.h
+
+1664555768 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusicaa\aplicacionmusica\reportes.h
+
+1664583966 source:c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"clases.h"
+	"reportes.h"
+	"funciones.h"
+	"menues.h"
+
+1664592656 c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\funcionesglobales.h
+
+1664592894 c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\clases.h
+
+1664583361 c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\reportes.h
+
+1664592656 c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\funciones.h
+
+1664587174 c:\users\ciroc\desktop\aplicacionmusicaa\aplicacionmusica\menues.h
+
+1664583966 source:c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	"funcionesGlobales.h"
+	"clases.h"
+	"reportes.h"
+	"funciones.h"
+	"menues.h"
+
+1664592656 c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\funcionesglobales.h
+
+1664592894 c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\clases.h
+
+1664918208 c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\reportes.h
+
+1664592656 c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\funciones.h
+
+1664917996 c:\users\sunra escobar\onedrive\escritorio\utn programacion\archivo\primer parcial\aplicacionmusicaa\aplicacionmusica\menues.h
+
+1665066678 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\reportes.h
+
+1665066358 c:\users\user\desktop\laboratorio de computacion 2\primer parcial\aplicacionmusica\menues.h
+
